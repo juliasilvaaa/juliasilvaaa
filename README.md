@@ -1,6 +1,6 @@
-# Meu nome é Julia
+# Júlia Silva
 
-- 🔭 Trabalhando no SBT
+- 💻 Working at SBT
 - 📫 juliasilvaps26@gmail.com
 
   <div>
